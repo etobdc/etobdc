@@ -1,17 +1,11 @@
-<h1 align="center">Olá! Eu sou o Everton Braatz Dalla Corte</h1>
+<h1 align="left">Bem vindo ao meu perfil! Eu sou o Everton Braatz Dalla Corte</h1>
 <h3 align="center">
-  Desenvolvedor fullstack web e mobile, Amo o que eu faço, porque faço o que eu Amo!
+  Eu sou o Everton Braatz Dalla Corte. Desenvolvedor fullstack web e mobile, Amo o que eu faço, porque faço o que eu Amo!
 </h3>
 
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=etobdc&theme=discord&margin-w=15" alt="etobdc" />
-  </a> 
-</p>
 <div>
   <a href="https://github.com/etobdc">  
-    <p align="center">
+    <p align="left">
       <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=etobdc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=0396F3&text_color=fff&icon_color=04D8FF&hide_border=true"/>
       <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=etobdc&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=0396F3&fire=04D8FF&currStreakNum=04D8FF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=04D8FF" alt="etobdc" />
     </p>
@@ -39,7 +33,7 @@
 </p>
 <h3 align="left">Linguagens, Frameworks e Ferramentas:</h3>
 <div width="50%">
-  <p align="center">   
+  <p align="left">   
     <a href="https://code.visualstudio.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
     </a>
