@@ -1,4 +1,4 @@
-<h1 align="left">Bem vindo ao meu perfil! Eu sou o Everton Braatz Dalla Corte</h1>
+<h1 align="left">Bem vindo ao meu perfil!</h1>
 <h3 align="center">
   Eu sou o Everton Braatz Dalla Corte. Desenvolvedor fullstack web e mobile, Amo o que eu faço, porque faço o que eu Amo!
 </h3>
