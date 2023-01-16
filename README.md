@@ -1,37 +1,9 @@
-<h1 align="left">Bem vindo ao meu perfil!</h1>
-<h3 align="center">
-  Eu sou o Everton Braatz Dalla Corte. Desenvolvedor fullstack web e mobile, Amo o que eu faço, porque faço o que eu Amo!
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etobdc&label=Visitantes&color=0e75b6&style=flat"/> </p>
 
-<div>
-  <a href="https://github.com/etobdc">  
-    <p align="left">
-      <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=etobdc&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=0396F3&text_color=fff&icon_color=04D8FF&hide_border=true"/>
-      <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=etobdc&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=0396F3&fire=04D8FF&currStreakNum=04D8FF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=04D8FF" alt="etobdc" />
-    </p>
-  </a>
-</div>
+<h3 align="left">CIO na <a href="https://d3t.com.br/" target="_blank">D3T Inovação Tecnológica</a></h3>
+<h3 align="left">Desenvolvedor fullstack web e mobile</h3>
 
-- CIO na D3T Softwares Personalizados! [D3T Softwares Personalizados](https://d3t.com.br/)
-
-- 💬 Me pergunte sobre **javascript, react, vue, react-native, php, laravel, mySql**
-
-- 📫 Entre em contato pelo email: **everton@d3t.com.br**
-
-<h3 align="left">Onde me encontrar:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/evertondallacorte" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciokruger" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/everton.braatzdallacorte" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maukruger" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/etobdc" target="blank"
-     ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maukruger" height="30" width="40" />
-  </a>
-</p>
-<h3 align="left">Linguagens, Frameworks e Ferramentas:</h3>
+<h4 align="left">Linguagens, Frameworks e Ferramentas:</h3>
 <div width="50%">
   <p align="left">   
     <a href="https://code.visualstudio.com/" target="_blank"> 
@@ -148,9 +120,14 @@
     </a> 
     <br>
     <br>
-    <a href="https://github.com/etobdc">  
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etobdc&layout=compact&langs_count=7&bg_color=101a26&title_color=0396F3&text_color=fff&icon_color=04D8FF&hide_border=true"/><br>
-    </a>
   </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etobdc&label=Visitantes&color=0e75b6&style=flat" alt="mauriciokruger" /> </p>
+<h4 align="left">Onde me encontrar:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/evertondallacorte" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/etobdc" target="blank"
+     ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
