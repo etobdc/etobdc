@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etobdc&label=Visitantes&color=0e75b6&style=flat"/> </p>
 
-<h3 align="left">CIO na <a href="https://d3t.com.br/" target="_blank">D3T Inovação Tecnológica</a></h3>
 <h3 align="left">Desenvolvedor fullstack web e mobile</h3>
 
 <h4 align="left">Linguagens, Frameworks e Ferramentas:</h3>
